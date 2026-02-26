@@ -38,7 +38,7 @@ The addin is available from the [MonoDevelop addin repository](http://addins.mon
 
 1. [TypeScript](https://github.com/Unity-diverse-range-of-warehouses/typescript) - The TypeScript language services are used to provide code completion.
 2. [V8.NET](http://v8dotnet.codeplex.com/) - A library that hosts Google's V8 JavaScript engine and allows .NET objects to be used directly from JavaScript.
-3. [Json.NET](http://json.codeplex.com/) - Json library for.NET created by [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub/).
+3. [Json.NET](http://json.codeplex.com/) - Json library for .NET created by [Unity-Billal-mesloub](https://github.com/Unity-Billal-mesloub/).
 
 ## How it works
 
